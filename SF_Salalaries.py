@@ -1,4 +1,4 @@
--- I used Python's Pandas library to read, explore and manipulate the data from a dataset I found on Kaggle (https://www.kaggle.com/kaggle/sf-salaries) to answer a few questions.
+# I used Python's Pandas library to read, explore and manipulate the data from a dataset I found on Kaggle (https://www.kaggle.com/kaggle/sf-salaries) to answer a few questions.
 
 # importing Panda
 import pandas as pd
